@@ -32,7 +32,7 @@ Drowsiness Detection/
 
 1. Clone this repository or extract the zip:
 
-git clone https://github.com/TejasToraskar1509/drowsiness-detection.git
+git clone https://github.com/Atharvasawant18/Drowsiness_Detection.git
 cd drowsiness-detection
 
 2. Install dependencies:
